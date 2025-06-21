@@ -7,7 +7,7 @@
 ###### Politecnico di Torino
 
 ## Reference Paper
-- [Why We’re Still Here: A Simulation of Human Evolution, War, and the Power of Getting Along](https://github.com/305909/natural-selection-simulator/blob/main/docs/natural-selection-simulator-ACM.pdf)
+- [Why We’re Still Here: A Simulation of Human Evolution, War, and the Power of Getting Along](https://github.com/sencosx/natural-selection-simulator/blob/main/docs/natural-selection-simulator-ACM.pdf)
 
 ---
 
@@ -35,7 +35,7 @@ Play time starts here.
 1. Fire this up in your notebook:
 
 ```python
-!git clone https://github.com/305909/natural-selection-simulator.git
+!git clone https://github.com/sencosx/natural-selection-simulator.git
 ```
 
 2. Run the simulator and see what happens:
